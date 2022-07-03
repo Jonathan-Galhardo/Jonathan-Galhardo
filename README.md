@@ -1,5 +1,5 @@
 ### Olá Mundo! Eu sou o Jonathan Galhardo B. Silva 👋
-Sou Desenvolvedor Web Front End. 
+Sou Desenvolvedor Front End. 
 
 #Minhas Ferramentas: <br>
 #HTML5 <br>
