@@ -7,7 +7,7 @@ Atualmente estou estudando Desenvolvimento Web Completo - (HTML5, CSS3, BootStra
 
 <div align="center">
   <a href="https://github.com/galhardo87">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galhardo87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathan-Galhardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
  <div style="display: inline_block"><br>
