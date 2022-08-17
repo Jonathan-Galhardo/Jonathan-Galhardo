@@ -1,5 +1,5 @@
-### Olá Mundo! Eu sou o Jonathan Galhardo B. Silva 👋
-Sou Desenvolvedor Front End. 
+# Olá Mundo! Eu sou o Jonathan Galhardo B. Silva 👋
+## Sou Desenvolvedor Front End. 
 
 #Minhas Ferramentas: <br>
 #HTML5 <br>
@@ -16,6 +16,9 @@ Sou Desenvolvedor Front End.
 </div>
   <a href="https://github.com/Jonathan-Galhardo">
 
+![Jhon_sem_fundo_busto_pequeno](https://user-images.githubusercontent.com/89818336/185154364-98def5e6-3ff8-4e8b-9ec4-a8631ef3ef17.png)
+
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Jonathan-Galhardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonathan-Galhardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,6 +28,7 @@ Sou Desenvolvedor Front End.
    
  </div>
  <br>  
+ 
  <div> 
   <a href="https://www.instagram.com/galhardo_87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:galhardoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
