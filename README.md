@@ -1,4 +1,7 @@
-# Olá Mundo! Eu sou o Jonathan Galhardo B. Silva 👋
+# Olá Mundo! ![Jhon_sem_fundo_busto_pequeno](https://user-images.githubusercontent.com/89818336/185154364-98def5e6-3ff8-4e8b-9ec4-a8631ef3ef17.png)
+
+  
+##Eu sou o Jonathan Galhardo 👋
 ## Sou Desenvolvedor Front End. 
 
 #Minhas Ferramentas: <br>
@@ -15,10 +18,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Galhardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <a href="https://github.com/Jonathan-Galhardo">
-
-![Jhon_sem_fundo_busto_pequeno](https://user-images.githubusercontent.com/89818336/185154364-98def5e6-3ff8-4e8b-9ec4-a8631ef3ef17.png)
-
-
  <div style="display: inline_block"><br>
   <img align="center" alt="Jonathan-Galhardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonathan-Galhardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
