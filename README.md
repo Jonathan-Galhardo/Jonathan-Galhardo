@@ -4,10 +4,10 @@
 ##Eu sou o Jonathan Galhardo 👋
 ## Sou Desenvolvedor Front End. 
 
-#Minhas Ferramentas: <br>
-#HTML5 <br>
-#CSS3<br>
-#BootStrap<br> 
+#Minhas Ferramentas: 
+#HTML5 
+#CSS3
+#BootStrap
 #Java Script 
 
 
