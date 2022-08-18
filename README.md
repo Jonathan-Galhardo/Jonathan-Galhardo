@@ -1,4 +1,4 @@
-# Olá Mundo! ![Jhon_sem_fundo_busto_pequeno](https://user-images.githubusercontent.com/89818336/185154364-98def5e6-3ff8-4e8b-9ec4-a8631ef3ef17.png)
+# Olá Mundo!
 
   
 ##Eu sou o Jonathan Galhardo 👋
