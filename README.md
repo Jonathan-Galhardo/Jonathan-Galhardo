@@ -1,5 +1,5 @@
 # Olá! 👋 
-Eu sou o Jonathan Galhardo e sou Desenvolvedor Front End. 
+Eu sou o Jonathan Galhardo atuo como Desenvolvedor Front End. 
 
 ### Crio interfaces com: 
 <div style="display: inline_block">
